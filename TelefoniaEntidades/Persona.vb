@@ -3,8 +3,8 @@
     Private _apellido As String
     Private _nombre As String
     Private _documento As UInteger
-    Sub New(apellido As String, nombre As String, documento As UInteger)
-        MyBase.New
+    Sub New(cuenta As UInteger, apellido As String, nombre As String, documento As UInteger)
+        MyBase.New(cuenta)
         Me.Nombre = nombre
         Me.Apellido = apellido
         Me.Documento = documento
@@ -34,7 +34,7 @@
         End Set
     End Property
     Public Overrides Function ToString() As String
-        Return Apellido & " " & " " & Nombre & " " & Cuenta
+        Return Apellido & " " & " " & Nombre & " cuenta nro: " & Cuenta
     End Function
 
 End Class

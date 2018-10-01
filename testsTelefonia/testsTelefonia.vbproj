@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CDEE52AC-45C7-44F6-BBE2-9B20905FEC39}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>testsTelefonia.testLinea</StartupObject>
+    <StartupObject>testsTelefonia.personaTest</StartupObject>
     <RootNamespace>testsTelefonia</RootNamespace>
     <AssemblyName>testsTelefonia</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -68,6 +68,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="personaTest.vb" />
     <Compile Include="testLinea.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">

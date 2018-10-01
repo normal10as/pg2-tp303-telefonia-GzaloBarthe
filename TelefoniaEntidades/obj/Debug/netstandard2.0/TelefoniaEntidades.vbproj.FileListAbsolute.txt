@@ -7,3 +7,12 @@ F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe\Telefonia\Telefonia
 F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe\Telefonia\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.AssemblyInfo.vb
 F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe\Telefonia\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.dll
 F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe\Telefonia\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.pdb
+F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe2\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.vbprojResolveAssemblyReference.cache
+F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe2\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.vbproj.CoreCompileInputs.cache
+F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe2\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.AssemblyInfoInputs.cache
+F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe2\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.AssemblyInfo.vb
+F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe2\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.dll
+F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe2\TelefoniaEntidades\obj\Debug\netstandard2.0\TelefoniaEntidades.pdb
+F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe2\TelefoniaEntidades\bin\Debug\netstandard2.0\TelefoniaEntidades.deps.json
+F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe2\TelefoniaEntidades\bin\Debug\netstandard2.0\TelefoniaEntidades.dll
+F:\programacion\Visual Basic\pg2-tp303-telefonia-GzaloBarthe2\TelefoniaEntidades\bin\Debug\netstandard2.0\TelefoniaEntidades.pdb

@@ -2,8 +2,8 @@
     Inherits Cliente
     Private _razonSocial As String
     Private _cuit As String
-    Sub New(razonsocial As String, cuit As String)
-        MyBase.New
+    Sub New(cuenta As UInteger, razonsocial As String, cuit As String)
+        MyBase.New(cuenta)
         Me.RazonSocial = razonsocial
         Me.Cuit = cuit
     End Sub
