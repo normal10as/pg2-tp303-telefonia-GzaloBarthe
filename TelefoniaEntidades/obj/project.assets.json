@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\programacion\\Visual Basic\\pg2-tp303-telefonia-GzaloBarthe\\.vs\\pg2-tp303-telefonia-GzaloBarthe\\Telefonia\\TelefoniaEntidades\\TelefoniaEntidades.vbproj",
+      "projectUniqueName": "F:\\programacion\\Visual Basic\\pg2-tp303-telefonia-GzaloBarthe2\\TelefoniaEntidades\\TelefoniaEntidades.vbproj",
       "projectName": "TelefoniaEntidades",
-      "projectPath": "F:\\programacion\\Visual Basic\\pg2-tp303-telefonia-GzaloBarthe\\.vs\\pg2-tp303-telefonia-GzaloBarthe\\Telefonia\\TelefoniaEntidades\\TelefoniaEntidades.vbproj",
+      "projectPath": "F:\\programacion\\Visual Basic\\pg2-tp303-telefonia-GzaloBarthe2\\TelefoniaEntidades\\TelefoniaEntidades.vbproj",
       "packagesPath": "C:\\Users\\Super Gzalo\\.nuget\\packages\\",
-      "outputPath": "F:\\programacion\\Visual Basic\\pg2-tp303-telefonia-GzaloBarthe\\.vs\\pg2-tp303-telefonia-GzaloBarthe\\Telefonia\\TelefoniaEntidades\\obj\\",
+      "outputPath": "F:\\programacion\\Visual Basic\\pg2-tp303-telefonia-GzaloBarthe2\\TelefoniaEntidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
